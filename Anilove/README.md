@@ -64,28 +64,7 @@ This project is designed as a **learning-focused, production-style application**
 
 ---
 
-## 📂 Project Structure
 
-anilove/
-├── frontend/
-│ ├── pages/
-│ ├── assets/
-│ ├── scripts/
-│ └── styles/
-│
-├── backend/
-│ ├── config/
-│ ├── routes/
-│ ├── controllers/
-│ ├── models/
-│ ├── middleware/
-│ ├── server.js
-│ └── database.sql
-│
-└── README.md
-
-
----
 
 ## 🔐 Authentication Flow
 
